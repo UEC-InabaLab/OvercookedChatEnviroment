@@ -1,8 +1,12 @@
 # OvercookedChatEnviroment  
 
+<div style="display: flex; gap: 20px;">
+  <img src="./images\OvercookedchatEnvironment.png" width="600" />
+</div>
+
+
 This repository provides the offline cooperative cooking game environment for human-human collaboration.
-This testbed was used to collect the [OvercookedChat dataset](https://github.com/UEC-InabaLab/OvercookedChat),  
-a Japanese human-human dialogue dataset from a real-time collaborative cooking game environment.
+This testbed was used to collect the [OvercookedChat dataset](https://github.com/UEC-InabaLab/OvercookedChat), a Japanese human-human dialogue dataset from a real-time collaborative cooking game environment.
 
 ## 🖥️ Testbed : Overcooked Game
 
