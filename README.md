@@ -51,7 +51,7 @@ In addition to keyboard input, the game also supports game controller input. Cur
 ### 1. Solo Play
 This environment supports both solo play  and human-human cooperative play.
 ```bash
-python OvercookedChatEnviroment/play_human.py --map practice
+python play_human.py --map practice
 ```
 - `map`: solo map can be `practice` or `ring` 
 
@@ -59,7 +59,7 @@ python OvercookedChatEnviroment/play_human.py --map practice
 ### 2. Pair Play
 
 ```bash
-python OvercookedChatEnviroment/play_human.py --map standard
+python play_human.py --map standard
 ```
 
 - `map`: pair map can be `standard`, `partition`, `partition` or `expand`.
