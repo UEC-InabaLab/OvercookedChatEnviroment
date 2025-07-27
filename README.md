@@ -81,7 +81,6 @@ Once entered, the recorded gameplay will be played back at `2×` speed.
 - Confirmed to work on Python 3.10.12.
 
 ## 📄 Citation
-
 If you find this repository useful, please cite the following paper:
 
 ```bibtex
