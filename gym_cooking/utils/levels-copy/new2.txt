@@ -1,0 +1,18 @@
+-----f-
+Y  -  /
+O  -  /
+L  -  P
+-  -  -
+F  -  *
+F  -  *
+----BB-
+
+BellpepperLettuceGrill
+OnionLettuceGrill
+BellpepperOnionGrill
+BOLGrill
+
+1 1
+5 1
+2 1
+3 1
